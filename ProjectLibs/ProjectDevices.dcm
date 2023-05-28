@@ -1,0 +1,47 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 01550900M(Holder)
+F https://www.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_154_154t_154l_154tl_datasheet.pdf.pdf
+$ENDCMP
+#
+$CMP 2N7002DW_small_symbol
+D MOSFET 2N-CH 60V 0.115A SC70-6
+K 2N7002DWCT-ND
+F https://www.onsemi.com/pub/Collateral/2N7002DW-D.PDF
+$ENDCMP
+#
+$CMP Cree-XP-G3
+F https://cree-led.com/media/documents/dsXPG3.pdf
+$ENDCMP
+#
+$CMP LLS1J222MELA
+F http://nichicon-us.com/english/products/pdfs/e-lls.pdf
+$ENDCMP
+#
+$CMP LT3063EMS8E
+F https://www.analog.com/media/en/technical-documentation/data-sheets/3063fa.pdf
+$ENDCMP
+#
+$CMP LT3063EMS8E-3.3
+F https://www.analog.com/media/en/technical-documentation/data-sheets/3063fa.pdf
+$ENDCMP
+#
+$CMP LTC4440-5ES6
+D High-side, N-Channel, Mosfet driver, 80V input, -40°C to +85°C, SOT23-6
+K high-side mosfet-driver
+F https://www.analog.com/media/en/technical-documentation/data-sheets/4440fb.pdf
+$ENDCMP
+#
+$CMP LTC4440IS6
+D High-side, N-Channel, Mosfet driver, 80V input, -40°C to +85°C, SOT23-6
+K high-side mosfet-driver
+F https://www.analog.com/media/en/technical-documentation/data-sheets/4440fb.pdf
+$ENDCMP
+#
+$CMP Resistor_Small
+D Resistor, small symbol
+K r resistor
+F ~
+$ENDCMP
+#
+#End Doc Library
